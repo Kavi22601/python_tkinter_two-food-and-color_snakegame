@@ -19,3 +19,28 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+The MIT License is a permissive open-source software license widely used in the software development community. It is named after the Massachusetts Institute of Technology (MIT), where it was first used and popularized. The MIT License is simple, straightforward, and allows developers to freely use, modify, distribute, and sublicense the code without imposing significant restrictions.
+
+Key features of the MIT License:
+
+Permission: The license grants permission to anyone to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software.
+
+Open Source: The MIT License is compatible with open-source practices, allowing for collaborative development and sharing of code.
+
+No Warranty: The license comes with no warranty or guarantee. Users and contributors are responsible for using the software at their own risk.
+
+Notice and License: The license requires that the original copyright notice and license text must be included in all copies or substantial portions of the software.
+
+No Liability: The license disclaims any liability for damages or legal issues arising from the use of the software.
+
+The MIT License is known for its simplicity and flexibility, making it a popular choice for many open-source projects, libraries, and frameworks. It allows developers to freely use and integrate code from MIT-licensed projects into their own projects, even those with different licenses.
+
+Using the MIT License for your Snake game program means that you are granting other developers and users the freedom to:
+
+Use your code for both personal and commercial projects.
+Modify the code to suit their needs.
+Distribute the code and any modifications they make under the same MIT License or any other compatible license of their choice.
+By applying the MIT License to your Snake game project, you encourage collaboration and make it easy for others to contribute to and build upon your code. Contributors can confidently use and share your software, knowing they are doing so legally and responsibly.
+
+To add the MIT License to your project, create a LICENSE file in the root directory of your repository and include the full text of the MIT License. There are many online resources that provide the text of the MIT License, or you can use GitHub's built-in license chooser when creating your repository to automatically add the MIT License to your project.
